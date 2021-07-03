@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi,'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      My name is Houda, I'm a computer science graduate student at Georgia Tech
+      living in the Seattle area, I'm passionate about Machine Learning and
+      Technology.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
