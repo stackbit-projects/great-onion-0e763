@@ -8,7 +8,7 @@ image: images/7.jpg
 image_alt: A black headphones on a yeallow background
 seo:
   title: Project Title 8
-  description: This is the project 7 description
+  description: This is the project 8 description
   extra:
     - name: 'og:type'
       value: website
@@ -17,7 +17,7 @@ seo:
       value: Project Title 8
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: This is the project 8 description
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Project Title 8
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: This is the project 8 description
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
