@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Hi,'
     content: >
-      My name is Houda, I'm a computer science graduate student at Georgia Tech
-      living in the Seattle area, I'm passionate about Machine Learning and
+      My name is **Houda**, I'm a computer science graduate student at Georgia
+      Tech living in the Seattle area, I'm passionate about Machine Learning and
       Technology.
     actions: []
   - section_id: latest-projects
