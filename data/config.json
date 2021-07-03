@@ -45,7 +45,7 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
-                "style": "link",
+                "style": "icon",
                 "icon": "twitter",
                 "new_window": true
             },
