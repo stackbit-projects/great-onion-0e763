@@ -50,7 +50,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: View All
         url: blog
         style: button
 seo:
