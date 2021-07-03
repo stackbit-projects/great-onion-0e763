@@ -8,14 +8,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
