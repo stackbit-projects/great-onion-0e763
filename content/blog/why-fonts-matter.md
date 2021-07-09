@@ -52,8 +52,6 @@ For someone who’s been studying data science by myself for about a year, this 
 Taking place in the Google campus in Kirkland, WA, the event was set to go through the [TensorFlow in Practice specialization](https://www.coursera.org/specializations/tensorflow-in-practice) on Coursera in a span of 6 weeks, the courses were delivered to the participants by the course author himself **Laurence Moroney**.
 
 
-![](/\_static/app-assets/audience.jpg)
-
 <div class="row  text-center">
     <figure class="column">
         <img data-featherlight="/_static/app-assets/laurence.jpg" src="/_static/app-assets/laurence.jpg" alt="Laurence Moroney, Artificial Intelligence Advocate at  Google"/>
