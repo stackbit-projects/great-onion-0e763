@@ -131,15 +131,12 @@ Here’s an overview of the architecture of the app and how its components fit t
 
 *   **coscheck-prediction** Backend server built with Python and TensorFlow client that performs the model prediction on the text passed in as a POST request.
 
-Here’s a **Demo** showing the application working: 
+Here’s a **Demo** showing the application working:
 
 Demo classification from text as input
 ![](https://houdaaynaou.com/images/women-in-tensorFlow-hackathon/photo_demo.gif)
 
-
-
 On the left is an example of using text as input, and on the right is an example using a photo on which the text is automatically extracted using the OCR library on the backend.
-
 
 Also, for convenience here’s the mobile web app demo:
 
@@ -151,19 +148,4 @@ Feel free to experiment and play with it too at [https://coscheck.app](https://
 
 Fast forward to the day of the hackathon winners announcement, I gave my presentation and my project was announced as a winner, I couldn’t describe my feelings at that moments, I was very excited.
 
-> This was an incredible journey for me, it couldn’t be possible without the efforts of the 
->
-> **Seattle Women in Data Science**
->
->  community.
-> I want to thank all the organisers who tirelessly worked on making sure everything was successful, I also want to thank 
->
-> **Laurence Moroney**
->
->  from 
->
-> **Google**
->
->  for the incredible opportunity he gave us to to learn about TensorFlow.
-> I also want to thank all the wonderful women who participated in this event.
->
+> This was an incredible journey for me, it couldn’t be possible without the efforts of the **Seattle Women in Data Science** community. I want to thank all the organisers who tirelessly worked on making sure everything was successful, I also want to thank **Laurence Moroney** from **Google **for the incredible opportunity he gave us to to learn about TensorFlow. Also all the wonderful women who participated in this event.
