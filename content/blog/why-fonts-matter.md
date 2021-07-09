@@ -113,8 +113,57 @@ Then I [binned](https://en.wikipedia.org/wiki/Data_binning) the concern score 
 
 For the **model building**, after multiple trials with different layers and parameters I ended up with this DNN model:
 
-
-
 After training the model, I tested it with input ingredients that it had never seen and the model had correctly classified the products into the three categories.
 
 Instead of stopping here, I wanted to make this classifier convenient for everyday use and available for everyone. That’s why I went ahead and decided to build a web app anyone can use by pasting the list of ingredients of a product and the model will classify it and display the category it belongs to as a result.
+
+![](/\_static/app-assets/superb-paprika.png)
+
+Since it’s not convenient to write the list of ingredients while at the store, I decided to add an extra feature to the app that would allow uploading a photo, automatically extract the text from the image using an [OCR library](https://github.com/tesseract-ocr/tesseract) and feed it to the model for prediction.
+
+Here’s an overview of the architecture of the app and how its components fit together:
+
+![](/\_static/app-assets/thoughtful-sunflower.png)
+
+*   **web client** Frontend application, web and mobile friendly built with Reactjs
+
+*   **coscheck-ocr** Backend server built with Nodejs that performs the OCR using tesseract on the image passed in as a POST request.
+
+*   **coscheck-prediction** Backend server built with Python and TensorFlow client that performs the model prediction on the text passed in as a POST request.
+
+Here’s a **Demo** showing the application working: 
+
+Demo classification from text as input
+![](https://houdaaynaou.com/images/women-in-tensorFlow-hackathon/photo_demo.gif)
+
+
+
+On the left is an example of using text as input, and on the right is an example using a photo on which the text is automatically extracted using the OCR library on the backend.
+
+
+Also, for convenience here’s the mobile web app demo:
+
+![](https://www.youtube.com/watch?v=jv6IssBKm9w\&t=1s)
+
+Feel free to experiment and play with it too at [https://coscheck.app](https://coscheck.app/) and reach out to me if you have any feedback. As for the code, it’s all on [GitHub](https://github.com/houdaaynaou/coscheck).
+
+**Disclaimer**: this not a real product and should not be relied upon.
+
+Fast forward to the day of the hackathon winners announcement, I gave my presentation and my project was announced as a winner, I couldn’t describe my feelings at that moments, I was very excited.
+
+> This was an incredible journey for me, it couldn’t be possible without the efforts of the 
+>
+> **Seattle Women in Data Science**
+>
+>  community.
+> I want to thank all the organisers who tirelessly worked on making sure everything was successful, I also want to thank 
+>
+> **Laurence Moroney**
+>
+>  from 
+>
+> **Google**
+>
+>  for the incredible opportunity he gave us to to learn about TensorFlow.
+> I also want to thank all the wonderful women who participated in this event.
+>
