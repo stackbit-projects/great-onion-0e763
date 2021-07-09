@@ -4,7 +4,7 @@ subtitle: >-
   An app that classifies cosmetic products based on ingredients hazard concern
   level.
 date: '2019-05-10'
-thumb_image: images/1_thumb.jpg
+thumb_image: images/coschek.png
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/coschek.png
 image_alt: 'White, black, and red shoe sole'
