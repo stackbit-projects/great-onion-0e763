@@ -43,6 +43,13 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "icon",
+                "icon": "linkedin",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "style": "icon",
@@ -61,13 +68,6 @@
                 "url": "https://houdaaynaou.com/",
                 "style": "icon",
                 "icon": "dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
                 "new_window": true
             }
         ],
