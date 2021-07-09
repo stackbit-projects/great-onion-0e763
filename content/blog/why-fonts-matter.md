@@ -55,6 +55,17 @@ Taking place in the Google campus in Kirkland, WA, the event was set to go throu
 
 ![](/\_static/app-assets/audience.jpg)
 
+<div class="row  text-center">
+    <figure class="column">
+        <img data-featherlight="/images/women-in-tensorFlow-hackathon/laurence.jpg" src="/images/women-in-tensorFlow-hackathon/laurence.jpg" alt="Laurence Moroney, Artificial Intelligence Advocate at  Google"/>
+        <figcaption>Course instructor Laurence Moroney, Artificial Intelligence Advocate at Google</figcaption>
+    </figure>
+    <figure class="column">
+        <img data-featherlight="/images/women-in-tensorFlow-hackathon/audience.jpg" src="/images/women-in-tensorFlow-hackathon/audience.jpg" alt="Women in TensorFlow Meetup events"/>
+        <figcaption>Course students at Google Campus in Kirkland, WA</figcaption>
+    </figure>
+</div>
+
 Upon completion of the four courses, all participants will be granted the Coursera certificate and will have the opportunity to participate in a hackathon sponsored by Google and get a chance to win a Google Pixel 3A smartphone and Coral Boards.
 
 # ![](/\_static/app-assets/prizes.jpg)&#xA;![](/\_static/app-assets/trophies.jpg)
