@@ -57,7 +57,7 @@ Taking place in the Google campus in Kirkland, WA, the event was set to go throu
 
 <div class="row  text-center">
     <figure class="column">
-        <img data-featherlight="/images/women-in-tensorFlow-hackathon/laurence.jpg" src="/images/women-in-tensorFlow-hackathon/laurence.jpg" alt="Laurence Moroney, Artificial Intelligence Advocate at  Google"/>
+        <img data-featherlight="/\_static/app-assets/laurence.jpg" src="/images/women-in-tensorFlow-hackathon/laurence.jpg" alt="Laurence Moroney, Artificial Intelligence Advocate at  Google"/>
         <figcaption>Course instructor Laurence Moroney, Artificial Intelligence Advocate at Google</figcaption>
     </figure>
     <figure class="column">
