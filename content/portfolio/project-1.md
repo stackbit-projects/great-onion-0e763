@@ -1,5 +1,5 @@
 ---
-title: Cosmetic Product Classifier
+title: 'Coscheck: Cosmetic Product Classifier'
 subtitle: >-
   An app that classifies cosmetic products based on ingredients hazard concern
   level.
