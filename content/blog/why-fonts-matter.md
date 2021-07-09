@@ -60,7 +60,7 @@ Taking place in the Google campus in Kirkland, WA, the event was set to go throu
         <figcaption>Course instructor Laurence Moroney, Artificial Intelligence Advocate at Google</figcaption>
     </figure>
     <figure class="column">
-        <img data-featherlight="/images/women-in-tensorFlow-hackathon/audience.jpg" src="/images/women-in-tensorFlow-hackathon/audience.jpg" alt="Women in TensorFlow Meetup events"/>
+        <img data-featherlight="/_static/app-assets/audience.jpg" src="/images/women-in-tensorFlow-hackathon/audience.jpg" alt="Women in TensorFlow Meetup events"/>
         <figcaption>Course students at Google Campus in Kirkland, WA</figcaption>
     </figure>
 </div>
