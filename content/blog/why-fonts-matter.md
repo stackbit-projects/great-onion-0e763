@@ -51,8 +51,6 @@ For someone who’s been studying data science by myself for about a year, this 
 
 Taking place in the Google campus in Kirkland, WA, the event was set to go through the [TensorFlow in Practice specialization](https://www.coursera.org/specializations/tensorflow-in-practice) on Coursera in a span of 6 weeks, the courses were delivered to the participants by the course author himself **Laurence Moroney**.
 
-
-
 ![](/\_static/app-assets/laurence.jpg)
 
 ![](/\_static/app-assets/audience.jpg)
@@ -66,9 +64,6 @@ Deep Learning was a bit overwhelming for me to dive into, but after reading the�
 Having no prior experience with TensorFlow nor building Deep Neural Networks (DNN), the idea of participating in the Hackathon didn’t even cross my mind, little did I know that by the end of the course I would be able to build, test, and train a complete DNN.
 
 Having gone through the course material provided, and thanks to the impressive teaching skills of our instructor Laurence Moroney, followed by a month of practice, building deep neural networks became easy. As the Hackathon day was approaching I started to feel confident enough in my abilities that I decided to **take part of it**!
-
-
-
 
 Since the goal of the event was to **promote women in Data Science**, I knew I wanted to consider a project that’s also related to the cause, but at the same time a project that solves a problem and adds value.
 
@@ -119,9 +114,7 @@ Then I [binned](https://en.wikipedia.org/wiki/Data_binning) the concern score 
 For the **model building**, after multiple trials with different layers and parameters I ended up with this DNN model:
 
 
+
 After training the model, I tested it with input ingredients that it had never seen and the model had correctly classified the products into the three categories.
-
-
-
 
 Instead of stopping here, I wanted to make this classifier convenient for everyday use and available for everyone. That’s why I went ahead and decided to build a web app anyone can use by pasting the list of ingredients of a product and the model will classify it and display the category it belongs to as a result.
