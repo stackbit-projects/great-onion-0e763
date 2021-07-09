@@ -148,4 +148,4 @@ Feel free to experiment and play with it too at [https://coscheck.app](https://
 
 Fast forward to the day of the hackathon winners announcement, I gave my presentation and my project was announced as a winner, I couldn’t describe my feelings at that moments, I was very excited.
 
-> This was an incredible journey for me, it couldn’t be possible without the efforts of the **Seattle Women in Data Science** community. I want to thank all the organisers who tirelessly worked on making sure everything was successful, I also want to thank **Laurence Moroney** from **Google **for the incredible opportunity he gave us to to learn about TensorFlow. Also all the wonderful women who participated in this event.
+> This was an incredible journey for me, it couldn’t be possible without the efforts of the **Seattle Women in Data Science** community. I want to thank all the organisers who tirelessly worked on making sure everything was successful, I also want to thank **Laurence Moroney** from **Google** for the incredible opportunity he gave us to to learn about TensorFlow. Also all the wonderful women who participated in this event.
