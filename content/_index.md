@@ -8,7 +8,7 @@ sections:
     content: >
       My name is **Houda**, I'm a computer science graduate student at [Georgia
       Tech. College of Computing](https://www.cc.gatech.edu/) based in the
-      Seattle area, I'm passionate about Machine Learning and Technology.
+      Seattle area.
     actions: []
   - section_id: latest-projects
     type: section_portfolio
